@@ -15,7 +15,7 @@ A Java-based local network file sharing system supporting server discovery, mult
 - Java Swing
 - Multithreading
 - Socket Programming
-
+- File Handling
 ## How to Run
 
 1. **Compile the server and client code**:
