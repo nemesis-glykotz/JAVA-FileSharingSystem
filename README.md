@@ -29,6 +29,9 @@ A Java-based local network file sharing system supporting server discovery, mult
 
 3. Start the client:
    java FileClient
-![Screenshot (4)](https://github.com/user-attachments/assets/1cefdd35-13d1-477b-9e17-5c7f3a619117)
+![Screenshot (6)](https://github.com/user-attachments/assets/07bc6093-ef88-47c8-81f0-fabc1abe02f0)
+
 4. Use the GUI to select and send files from the client to the server over the local network.
 ![Screenshot (5)](https://github.com/user-attachments/assets/500fec0b-4cc4-4c04-9269-ccce38a2bb2d)
+5.File transfered:
+![Screenshot (4)](https://github.com/user-attachments/assets/1cefdd35-13d1-477b-9e17-5c7f3a619117)
