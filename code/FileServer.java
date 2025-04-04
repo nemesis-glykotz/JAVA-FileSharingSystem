@@ -104,5 +104,6 @@ public class FileServer {
     private static void updateProgress(long totalRead, long fileSize) {
         int percent = (int) ((totalRead * 100) / fileSize);
         SwingUtilities.invokeLater(() -> progressBar.setValue(percent));
+ 
     }
 }
