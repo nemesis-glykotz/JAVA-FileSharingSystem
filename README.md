@@ -34,9 +34,11 @@ A Java-based local network file sharing system supporting server discovery, mult
 4.Server detection:
 ![Screenshot (7)](https://github.com/user-attachments/assets/0bb2c283-c85d-437b-bef7-2fe1dabdea48)
 
-6. Use the GUI to select and send files from the client to the server over the local network.
+5. Use the GUI to select and send files from the client to the server over the local network.
 ![Screenshot (8)](https://github.com/user-attachments/assets/b4b99d3d-e9d4-4815-b6fa-a2fbf0e90ae1)
 
-7.File transfered:
-![Screenshot (4)](https://github.com/user-attachments/assets/1cefdd35-13d1-477b-9e17-5c7f3a619117)-Client
-![1](https://github.com/user-attachments/assets/bdf712ee-3292-4a47-b7fc-0d220922b1ec)-Server
+8.File transfered:
+Client:-
+![Screenshot (4)](https://github.com/user-attachments/assets/1cefdd35-13d1-477b-9e17-5c7f3a619117)
+Server:-
+![1](https://github.com/user-attachments/assets/bdf712ee-3292-4a47-b7fc-0d220922b1ec)
